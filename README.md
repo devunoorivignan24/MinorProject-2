@@ -1,2 +1,2 @@
-# MinorProject-2
-
+# Sudoku Solver
+The purpose of the project is to develop an application which helps the user to recreate an experience of solving sudoku puzzles in newspapers. Utilized the problem-solving skills using logical deduction, algorithms and the application of concepts like object-oriented programming in developing this application. User Interface is developed by using the properties and functionalities of the Java Swing library.
